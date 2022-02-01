@@ -4,4 +4,6 @@
 
 layout: home
 ---
-Aquí comienza tu camino hacia la programación paralela y los supercomputadores.
+<span class=prompt>\[tu@paralelo.dev ~\]$</span>  ./iniciar
+
+Muy pronto aquí comenzará tu camino hacia la programación paralela y los supercomputadores ![cursor](assets/gif/cursor.gif) 
