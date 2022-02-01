@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Recursos de libre acceso al mundo de la computación paralela.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: paralelo.dev
-github_username:  paralelo.dev
+twitter_username: paralelodev
+github_username:  paralelodev
+instagram_username:  paralelodev
+facebook_username:  paralelodev
+
 
 # Build settings
 theme: minima
