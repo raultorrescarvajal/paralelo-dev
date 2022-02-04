@@ -6,4 +6,8 @@ layout: home
 ---
 <span class=prompt>\[tu@paralelo.dev ~\]$</span>  ./iniciar
 
-Muy pronto aquí comenzará tu camino hacia la programación paralela y los supercomputadores ![cursor](assets/gif/cursor.gif) 
+Aquí comenzará tu camino hacia la programación paralela y los supercomputadores:
+
+1. [Aprende Xlan](https://xlan.paralelo.dev)
+
+![cursor](assets/gif/cursor.gif) 
