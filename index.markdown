@@ -8,6 +8,6 @@ layout: home
 
 Aquí comenzará tu camino hacia la programación paralela y los supercomputadores:
 
-1. [Aprende Xlan](https://xlan.paralelo.dev)
+1. [Aprende OpenMP](https://openmp.paralelo.dev)
 
 ![cursor](assets/gif/cursor.gif) 
