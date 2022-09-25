@@ -14,4 +14,4 @@ Queremos acercar a los desarolladores de habla hispana al fascinante mundo de la
 
 Raúl Torres se graduó como ingeniero de sistemas en la Universidad de Nariño, en Colombia. Realizó sus estudios de maestría en la Universidad Nacional de Colombia, también en Colombia. Es doctor en ciencias de la computación de la Universidad de Hamburgo, en Alemania. Recientemente trabajó como Senior Research Engineer en el Barcelona Supercomputing Center, en España, donde realizó investigación y desarrollo en compiladores y lenguajes de programación paralela.
 
-Perfil en LinkedIn: https://www.linkedin.com/in/raul-e-torres-c
+Perfil en LinkedIn: [https://www.linkedin.com/in/raul-e-torres-c](https://www.linkedin.com/in/raul-e-torres-c)
