@@ -12,6 +12,6 @@ Queremos acercar a los desarolladores de habla hispana al fascinante mundo de la
 
 ### Raúl Torres, PhD
 
-Raúl Torres se graduó como ingeniero de sistemas en la Universidad de Nariño, en Colombia. Realizó sus estudios de maestría en la Universidad Nacional de Colombia, también en Colombia. Es doctor en ciencias de la computación de la Universidad de Hamburgo, en Alemania. Recientemente trabajó como Senior Research Engineer en el Barcelona Supercomputing Center, en España, donde realizó investigación y desarrollo en compiladores y lenguajes de programación paralela.
+Raúl Torres se graduó como ingeniero de sistemas en la Universidad de Nariño, en Colombia. Realizó sus estudios de maestría en la Universidad Nacional de Colombia. Es doctor en ciencias de la computación de la Universidad de Hamburgo, Alemania. Recientemente trabajó como Senior Research Engineer en el Barcelona Supercomputing Center, en España, donde realizó investigación y desarrollo en compiladores y lenguajes de programación paralela. Actualmente se desempeña como Senior Compiler Engineer en [Codee](https://www.codee.com)
 
 Perfil en LinkedIn: [https://www.linkedin.com/in/raul-e-torres-c](https://www.linkedin.com/in/raul-e-torres-c)
