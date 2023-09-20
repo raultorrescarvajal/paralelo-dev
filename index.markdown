@@ -10,5 +10,6 @@ Aquí comenzará tu camino hacia la programación paralela y los supercomputador
 
 1. [Aprende OpenMP](https://openmp.paralelo.dev)
 2. [Aprende ProtoK](https://github.com/paralelodev/protok)
+3. [Aprende Ptk](https://github.com/paralelodev/protok/blob/main/example/example.ptk)
 
 ![cursor](assets/gif/cursor.gif) 
